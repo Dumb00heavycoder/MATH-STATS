@@ -1,5 +1,4 @@
 = Writing Syntax
-
 == Basic Syntax
  + Heading can be declared with the use of '=' and for subheading '==' is used
  + Add a blank line to start a new paragraph
