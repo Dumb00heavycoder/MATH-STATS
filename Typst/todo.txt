@@ -1,0 +1,6 @@
+Formatting []
+writing in typst [x]
+functions []
+images/figures[]
+simple biblography[]
+
